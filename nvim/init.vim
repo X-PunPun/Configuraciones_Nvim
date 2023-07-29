@@ -90,7 +90,6 @@ Plug 'ryanoasis/vim-devicons'   "para poner icono a direcotiro
 
 
 "----------- Tmux ------------------
-Plug 'christoomey/vim-tmux-navigator'   "poder navegar entreeararchivos abiertos con CTRL + hjkl
 Plug 'benmills/vimux'  "Agrega una gran cantidad de snipett para autocompletado.
 
 
@@ -213,7 +212,7 @@ nnoremap <Leader>y "+y<CR>
 
 
 
-"Tmux  CTRL + Espacio + HJKL para moverse entre Ventanas
+"Remplazo de Tmux  CTRL + Espacio + HJKL para moverse entre Ventanas
 nnoremap <silent> <leader><C-h> :TmuxNavigateLeft<CR>
 nnoremap <silent> <leader><C-j> :TmuxNavigateDown<CR>
 nnoremap <silent> <leader><C-k> :TmuxNavigateUp<CR>
