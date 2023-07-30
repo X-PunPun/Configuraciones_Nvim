@@ -1,6 +1,9 @@
 "Creamos la configuracion en esta localizacion devido a que asi lo pide
 "vim-plug. para nvim (~/.config/nvim/init.vim) 
 "verificar si existe carpeta nvim
+"Para modificar el Bashrc Aqui esta mi config
+"User= PS1='[ \[\e[2;3;53m\]\@ \[\e[0m\]] \[\e[38;5;220;1;3m\]\u\[\e[0m\]@\[\e[2;3m\]\H\[\e[0m\]:\[\e[97;1m\]\w\n\[\e[0;38;5;245m\]⊘ \[\e[38;5;220;1m\]⋗\[\e[0m\]'
+"root= PS1='[ \[\e[2;3;53m\]\@ \[\e[0m\]] \[\e[38;5;220;1;3m\]\u\[\e[0m\]@\[\e[2;3m\]\H\[\e[0m\]:\[\e[97;1m\]\w\n\[\e[0;38;5;255m\]⊗ \[\e[38;5;220;1m\]⋗\[\e[0m\]'
 
 "------------------Significado de cada linea-----------------------------
 
