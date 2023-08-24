@@ -1,7 +1,7 @@
 # Configuraciones de nvim
-- Aqui esta todas las Configuraciones que realize en nvim
+- Aqui esta todas las Configuraciones de nvim
 - Tambien Esta las configuraciones de coc Respecto a ciertos lenguajes y Motor de busqueda.
 
-Costo vantante realizar este proceso. Por lo que La otra parte de la informacion esta en mi cuaderno de notas.
+Mas informacion en mi cuaderno de notas.
 Tambien esta el proceso de aprendisaje de linux Ubuntu (linux) en general.
-Con Esto se puede decir que a aprendido a Realizar Cosas git con la terminal.
+Git entre otras herramientas.
